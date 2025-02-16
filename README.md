@@ -29,7 +29,6 @@ Automated workflows and deployed serverless solutions for fault-tolerant data sy
 I’m always eager to collaborate on exciting data projects or discuss how I can contribute to your team. Feel free to reach out:
 
 Email: prasadbhavani6996@outlook.com
-
-LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/prasadbhavani69/)
+[[LinkedIn Profile]](https://www.linkedin.com/in/prasadbhavani69/)
 
 Let’s build the future of data together! 🚀
