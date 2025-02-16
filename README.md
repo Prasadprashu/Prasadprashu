@@ -1,6 +1,6 @@
-👋 Hi, I’m Bhavani Prasad
+# 👋 Hi, I’m Bhavani Prasad
 
-🚀 Aspiring Data Engineer | Python | SQL | PySpark | ETL Pipelines | Cloud
+## 🚀 Aspiring Data Engineer | Python | SQL | PySpark | ETL Pipelines | Cloud
 I’m a transitioning professional with 3+ years of experience optimizing complex 3D interactive simulation pipelines for Fortune 500 clients (VR/AR/Metaverse) 🎮. Now, I’m channeling my technical expertise into Data Engineering, fueled by a passion for data and a drive to build scalable, data-driven solutions 💻.
 
 Over the past 6 months, I’ve immersed myself in self-driven learning, mastering Python, SQL, PySpark, and cloud technologies to build scalable ETL pipelines, automate workflows, and enable AI/ML-driven insights 📊. I’m hands-on with PySpark DataFrames, data lake optimization, and serverless deployments, and I thrive on solving complex problems to deliver impactful results 🛠️.
