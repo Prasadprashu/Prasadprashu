@@ -1,35 +1,41 @@
-# 👋 Hi, I’m Bhavani Prasad
+# Hi, I'm Prasad MB 👋
 
-## 🚀 Aspiring Data Engineer | Python | SQL | PySpark | ETL Pipelines | Cloud
+I'm a 3D enthusiast, developer, and the founder of **[USDStation](https://usdstation.com)**.
 
-I’m a transitioning professional with 3+ years of experience optimizing complex 3D interactive simulation pipelines for Fortune 500 clients (VR/AR/Metaverse) 🎮. Now, I’m channeling my technical expertise into Data Engineering, fueled by a passion for data and a drive to build scalable, data-driven solutions 💻.
+My background is in 3D and immersive technologies. Over time, I became interested in OpenUSD, NVIDIA Omniverse, robotics, digital twins, and Physical AI.
 
-Over the past 6 months, I’ve immersed myself in self-driven learning, mastering Python, SQL, PySpark, and cloud technologies to build scalable ETL pipelines, automate workflows, and enable AI/ML-driven insights 📊. I’m hands-on with PySpark DataFrames, data lake optimization, and serverless deployments, and I thrive on solving complex problems to deliver impactful results 🛠️.
+While exploring these technologies, I noticed how difficult it can be to find useful projects, assets, tools, and technical knowledge in one place.
 
-🔧 What I Bring to the Table:
-Technical Skills: Python, SQL, PySpark, Hadoop, Hive, Spark, ETL/ELT, Data Lakes, Cloud Platforms.
+That's what led me to start **USDStation**.
 
-Problem-Solving: Proven ability to translate business requirements into technical solutions under tight deadlines 🎯.
+### What I'm Building
 
-Collaboration: Experience working in cross-functional teams to deliver innovative, client-driven projects 🤝.
+**USDStation** is a platform where creators, developers, and researchers can discover, share, and build on each other's work.
 
-Learnability: A quick learner with a strong foundation in data technologies and a growth mindset 🌱.
+I'm working on:
 
-🌟 Why Data Engineering?
-I’m passionate about transforming raw data into actionable insights and building systems that drive decision-making. My unique blend of technical rigor and creative problem-solving (honed from years in 3D/VR) allows me to approach challenges with a fresh perspective 🎨.
+- **Marketplace** — A place to publish and discover 3D assets, OpenUSD resources, and tools.
+- **Showcases** — A space for creators to share their projects.
+- **Blogs** — Tutorials, technical articles, and knowledge sharing.
+- **Creator Portfolios** — Helping creators bring their work together.
+- **StageLab** — A free, browser-based OpenUSD viewer and engineering workspace that processes files locally.
 
-🛠️ Projects & Contributions:
-Built scalable ETL pipelines using PySpark and cloud technologies.
+### 🔧 What Interests Me
 
-Optimized data lakes and queried structured/semi-structured datasets with Hive and Athena.
+OpenUSD • NVIDIA Omniverse • Isaac Sim • Robotics • Physical AI • Digital Twins • 3D Visualization • Developer Tools
 
-Automated workflows and deployed serverless solutions for fault-tolerant data synchronization.
+### My Journey
 
-📫 Let’s Connect!
-I’m always eager to collaborate on exciting data projects or discuss how I can contribute to your team. Feel free to reach out:
+I'm building USDStation step by step, learning new things, solving problems, and improving the platform along the way.
 
-Email: prasadbhavani6996@outlook.com
+I enjoy connecting with people who are working on interesting ideas, especially in 3D, simulation, and robotics.
 
-[[LinkedIn Profile]](https://www.linkedin.com/in/prasadbhavani69/)
+There's still a lot to learn and build, and that's what makes this journey interesting.
 
-Let’s build the future of data together! 🚀
+### 🤝 Let's Connect
+
+If you're working with OpenUSD, robotics, 3D technology, or Physical AI, I'd love to hear what you're building.
+
+**Explore USDStation:** https://usdstation.com
+
+**Try StageLab:** https://usdstation.com/usd-viewer
