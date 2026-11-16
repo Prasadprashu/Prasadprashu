@@ -20,7 +20,7 @@ I'm working on:
 - **Creator Portfolios** — Helping creators bring their work together.
 - **StageLab** — A free, browser-based OpenUSD viewer and engineering workspace that processes files locally.
 
-### 🔧 What Interests Me
+###  What Interests Me
 
 OpenUSD • NVIDIA Omniverse • Isaac Sim • Robotics • Physical AI • Digital Twins • 3D Visualization • Developer Tools
 
@@ -32,9 +32,11 @@ I enjoy connecting with people who are working on interesting ideas, especially 
 
 There's still a lot to learn and build, and that's what makes this journey interesting.
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 If you're working with OpenUSD, robotics, 3D technology, or Physical AI, I'd love to hear what you're building.
+
+**My Linkdin:** [Linkedin](https://www.linkedin.com/in/prasadbhavani69/)
 
 **Explore USDStation:** https://usdstation.com
 
